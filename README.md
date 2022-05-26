@@ -1,4 +1,8 @@
 # COURSEs
 
-1) clinical nateural language processing: 
-2) 
+- clinical nateural language processing: 
+
+- Space Medicine by Coursera [Link to course](https://www.coursera.org/learn/space-medicine-duke)
+
+
+
