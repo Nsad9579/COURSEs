@@ -6,6 +6,9 @@
 
 - Deep Learning for coders [Link to course](https://course.fast.ai/)
 
+- Neural Network [Link to videos](https://www.youtube.com/c/SeyedNaserRazavi)
+
+
 
 
 
