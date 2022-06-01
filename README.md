@@ -1,6 +1,6 @@
 # COURSEs
 
-- clinical nateural language processing: 
+- Academic Litracy [Link to course](https://www.coursera.org/learn/academic-literacy)
 
 - Space Medicine by Coursera [Link to course](https://www.coursera.org/learn/space-medicine-duke)
 
