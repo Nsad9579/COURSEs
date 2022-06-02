@@ -1,6 +1,6 @@
 # Space Medicine course 
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Space was always interesting!]()
 
 I gathered things that sounds interesting to me here:)
 
@@ -33,6 +33,12 @@ without a space suit;
 One of the sentences that really touched my heart was this;
 
         " Space is not an easily habitable envirement but even here kife finds a way"
+        
+### Week 3 - Case Study: Caisson Worker's Disease
+
+- BaroTrauma : destruction caused by changes of pressure
+
+- Trauma: a wide range of issues in medicine that covers everything from burns to broken bones and scrapes to stabs
         
 
 
